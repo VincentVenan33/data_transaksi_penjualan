@@ -1,1 +1,2 @@
 # data_transaksi_penjualan
+# This website is an Inventory Management application with Node.js as the backend API and Laravel as the frontend. The main features include CRUD for products, customers, and transactions, with input validation, pagination, and transaction auditing. The system also provides reports on inventory value, low-stock products, monthly sales, sales per category, to the list of best-selling products, as well as notifications when stock reaches the minimum limit.
